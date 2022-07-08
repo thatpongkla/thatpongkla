@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thatpongkla
+- 👀 I’m interested in football
+- 🌱 I’m currently learning css java c++ c# python ruby everything
